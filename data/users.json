@@ -1,0 +1,9 @@
+
+{
+  "users":[ {
+    "userName": "chandru",
+    "mailid": "chan@gmail.com",
+    "password": "1234",
+    "gender": "Male"
+  } ]
+}

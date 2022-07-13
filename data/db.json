@@ -1,0 +1,120 @@
+{
+  "tasks": [
+    {
+      "userName": "chandru",
+      "taskName": "RAW",
+      "taskDetail": "Gotilla",
+      "startDate": "2022-07-02",
+      "endDate": "2022-07-16",
+      "id": 1
+    },
+    {
+      "userName": "monk",
+      "taskName": "killing virappan",
+      "taskDetail": "encounter",
+      "startDate": "2022-07-01",
+      "endDate": "2022-07-10",
+      "status": "Onging :)",
+      "id": 2
+    },
+    {
+      "userName": "monk",
+      "taskName": "killing virappan",
+      "taskDetail": "encounter",
+      "startDate": "2022-07-01",
+      "endDate": "2022-07-10",
+      "status": "Onging :)",
+      "id": 3
+    },
+    {
+      "userName": "jkb",
+      "taskName": "kjb",
+      "taskDetail": "kjbkjb",
+      "startDate": "2022-06-28",
+      "endDate": "2022-07-13",
+      "status": "Onging :)",
+      "id": 4
+    },
+    {
+      "userName": "chan",
+      "taskName": "details",
+      "taskDetail": ",kjcnsdkc dc dnkcbdkj,mq",
+      "startDate": "2022-07-11",
+      "endDate": "2022-07-15",
+      "status": "Onging :)",
+      "id": 5
+    },
+    {
+      "userName": "chan",
+      "taskName": "jhvbsvkjbo;uj",
+      "taskDetail": "ldfkvnfdvhdfvn",
+      "startDate": "2022-07-12",
+      "endDate": "2022-07-19",
+      "status": "Onging :)",
+      "id": 6
+    },
+    {
+      "userName": "chandru",
+      "taskName": "js",
+      "taskDetail": "learning",
+      "startDate": "2022-07-11",
+      "endDate": "2022-07-20",
+      "status": "Onging :)",
+      "id": 7
+    },
+    {
+      "userName": "ecbeib",
+      "taskName": "hbdjhbchb",
+      "taskDetail": "hjbvewihvbwsh",
+      "startDate": "2022-07-12",
+      "endDate": "2022-07-19",
+      "status": "Ongoing",
+      "id": 8
+    },
+    {
+      "userName": "ecbeib",
+      "taskName": "hbdjhbchb",
+      "taskDetail": "hjbvewihvbwsh",
+      "startDate": "2022-07-12",
+      "endDate": "2022-07-19",
+      "status": "Ongoing",
+      "id": 9
+    },
+    {
+      "userName": "ffeiol1",
+      "taskName": "newj",
+      "taskDetail": "lkea",
+      "startDate": "22245-01-01",
+      "endDate": "5224-05-24",
+      "status": "yet to start",
+      "id": 10
+    },
+    {
+      "userName": "cdsl",
+      "taskName": "nals",
+      "taskDetail": "vasl",
+      "startDate": "2222-02-12",
+      "endDate": "2222-02-22",
+      "status": "Pending",
+      "id": 11
+    },
+    {
+      "userName": "",
+      "taskName": "",
+      "taskDetail": "",
+      "startDate": "",
+      "endDate": "",
+      "status": "Completed",
+      "id": 12
+    },
+    {
+      "userName": "bdddbvdbh",
+      "taskName": "bkjbsdb",
+      "taskDetail": "ksnv ksvk",
+      "startDate": "2022-07-12",
+      "endDate": "2022-07-19",
+      "status": "Onging :)",
+      "id": 13
+    }
+  ]
+}
